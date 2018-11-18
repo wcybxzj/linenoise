@@ -1,0 +1,6 @@
+linenoise_example
+*.dSYM
+history.txt
+.idea
+build
+ke-build-debug
