@@ -3,4 +3,4 @@ linenoise_example
 history.txt
 .idea
 build
-ke-build-debug
+cmake-build-debug
